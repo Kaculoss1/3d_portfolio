@@ -31,7 +31,7 @@ const Navbar = () => {
           className="flex items-center gap-2"
           onClick={handleClick}
         >
-          <Image src={logo} alt="logo" className="w-36 h-24 object-contain" />
+          <Image src={logo} alt="logo" className="w-44 h-20 object-contain" />
           {/* <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Keezy&nbsp;<span className="sm:block hidden">| Kaculoss</span>
          </p> */}
